@@ -1,0 +1,36 @@
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+}
+
+.tabledata {
+    width: 100%;
+}
+.schedule {
+    display: grid;
+    border: 1px solid black;
+
+
+}
+
+table, th, td {
+    border: 2px solid grey;
+  }
+
+body {
+    background-color: ghostwhite;
+}
+
+th {
+    background-color: lightgreen;
+    color: black;
+  }
+  
+tr {
+    background-color: ghostwhite;
+
+}
+
